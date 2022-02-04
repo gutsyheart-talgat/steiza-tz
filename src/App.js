@@ -1,24 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import LogIn from './Pages/LogIn';
+import { Route, BrowserRouter, Switch} from 'react-router-dom'
+import Cabinet from './Pages/Cabinet';
 
 function App() {
+  /*В этом проекте используются роуты, так как в проекте несколько страниц. */
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+        <Switch>
+          <Route path="/" component={LogIn} exact/>
+          <Route path="/cabinet" component={Cabinet} exact/>
+        </Switch>
+    </BrowserRouter>
   );
 }
 

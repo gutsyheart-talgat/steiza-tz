@@ -1,0 +1,219 @@
+
+.login-background{
+    min-height: 100vh;
+    background: linear-gradient(0deg, rgba(49, 69, 255, 0.8), rgba(49, 69, 255, 0.8)), url("./carl.jpg") center/cover;
+}
+.login-logo{
+    display: flex;
+    align-items: center;
+}
+.login-path{
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+.login-h1,.login-p{
+    font-style: normal;
+    color: #2A2D46;
+}
+
+input{
+    border-top: none;
+    border-bottom: 1px solid rgba(42, 53, 70, 0.5);
+    border-left: none;
+    border-right: none;
+    width: 100%;
+    height: 30px;
+}
+input:invalid{
+    border: 1px solid red;
+}
+.login-line{
+    border-top:3px solid red;
+    width: 100%;
+    height: 10px;
+    font-size: 12px;
+    color: red;
+}
+.login-FIO{
+    display: flex;
+    justify-content: space-between;
+}
+.login-person{
+    display: flex;
+    justify-content: space-between;
+}
+.login-gender{
+    display: flex;
+    justify-content: space-between;
+}
+
+.login-btn{
+    background: #EB2D66;
+    border-radius: 10px;
+    font-style: normal;
+    color: #FFFFFF;
+    border: none;
+}
+.login-countrySel{
+    border-top: none;
+    border-bottom: 1px solid rgba(42, 53, 70, 0.5);
+    border-left: none;
+    border-right: none;
+    height: 30px;
+    
+}
+form{
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+@media (max-width: 576px) {
+    .login-background{
+        min-width: 100vw;
+        min-height: 898px;
+    }
+    .login{
+        display: flex;
+        flex-direction: column;
+    }
+    .login-logo{
+        width: 226px;
+        height: 37px;
+        margin-top: 60px;
+        margin-bottom: 59px;
+    }
+    .login-path{
+        width: 385px;
+        height: 654px;
+    }
+    .login-h1{
+        font-weight: 900;
+        font-size: 20px;
+        line-height: 24px;
+        margin-top: 54px;
+        margin-left: 53px;
+    }
+    .login-p{
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 148.9%;
+        margin-top: 15px;
+        margin-left: 53px;
+    }
+    .login-email{
+        width: 278px;
+        margin-left: 53px;
+        margin-top: 30px;
+    }
+    
+    .login-name,.login-lastname,.login-calendar{
+        width: 124px;
+    }
+    .login-password,.login-country,.login-FIO,.login-person{
+        width: 278px;
+        margin-left: 53px;
+        margin-top: 20px;
+    }
+    .login-genderP{
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 148.9%;
+        margin-bottom: 21px;
+    }
+    .gender-input{
+        width: 25px;
+        height: 25px;
+    }
+    .login-btn{
+        width: 278px;
+        height: 57px;
+        font-weight: 900;
+        font-size: 14px;
+        line-height: 148.9%;
+        margin-left: 53px;
+        margin-top: 60px;
+    }
+}
+@media (min-width: 1200px) {
+    .login-background{
+        width: 1600px;
+        height: 900px;
+    }
+    .login{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .login-logo{
+        width: 300px;
+        height: 49px;
+        margin-top: 417px;
+    }
+    .login-path{
+        width: 551px;
+        height: 747px;
+        margin-top: 93px;
+    }
+    .login-h1{
+        font-weight: 900;
+        font-size: 31px;
+        line-height: 38px;
+    }
+    .login-h1{
+        font-weight: 900;
+        font-size: 31px;
+        line-height: 38px;
+        margin-top: 60px;
+        margin-left: 60px;
+    }
+    .login-p{
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 15px;
+        margin-left: 60px;
+    }
+    .login-email{
+        margin-left: 60px;
+        margin-top: 60px;
+        width: 431px;
+    }
+    .login-FIO{
+        width: 431px;
+        margin-left: 60px;
+        margin-top: 20px;
+    }
+    .login-name,.login-lastname,.login-calendar{
+        width: 200px;
+    }
+    .login-password,.login-country{
+        width: 431px;
+        margin-left: 60px;
+        margin-top: 20px;
+    }
+    .login-person{
+        margin-top: 20px;
+        margin-left: 60px;
+        width: 431px;
+    }
+    .login-male{
+        margin-right: 36px;
+    }
+    .login-genderP{
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 148.9%;
+        margin-bottom: 21px;
+    }
+    .login-btn{
+        width: 301px;
+        height: 57px;
+        font-weight: 900;
+        font-size: 15px;
+        line-height: 148.9%;
+        margin-top: 113px;
+        margin-left: 60px;
+    }
+}
+
