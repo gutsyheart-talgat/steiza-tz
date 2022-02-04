@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/steiza/static/css/main.8001dd7c.css",
+    "main.js": "/steiza/static/js/main.35c36f33.js",
+    "static/media/carl.jpg": "/steiza/static/media/carl.1febcf793d649ec3f3c3.jpg",
+    "static/media/photo.jpg": "/steiza/static/media/photo.aa6038871a12804bcfed.jpg",
+    "static/media/Audience.png": "/steiza/static/media/Audience.3de68b8bf603adc042a3.png",
+    "static/media/Age.png": "/steiza/static/media/Age.7501f82da4e87d7d7648.png",
+    "static/media/Geo.png": "/steiza/static/media/Geo.590a5d219fda3db344ff.png",
+    "index.html": "/steiza/index.html",
+    "main.8001dd7c.css.map": "/steiza/static/css/main.8001dd7c.css.map",
+    "main.35c36f33.js.map": "/steiza/static/js/main.35c36f33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8001dd7c.css",
+    "static/js/main.35c36f33.js"
+  ]
+}
