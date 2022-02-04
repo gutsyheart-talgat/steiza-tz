@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/steiza-tz/static/css/main.193f7eed.css",
-    "main.js": "/steiza-tz/static/js/main.d1bf0df9.js",
+    "main.js": "/steiza-tz/static/js/main.9d4a00e7.js",
     "static/media/carl.jpg": "/steiza-tz/static/media/carl.1febcf793d649ec3f3c3.jpg",
     "static/media/photo.jpg": "/steiza-tz/static/media/photo.aa6038871a12804bcfed.jpg",
     "static/media/Audience.png": "/steiza-tz/static/media/Audience.3de68b8bf603adc042a3.png",
@@ -9,10 +9,10 @@
     "static/media/Geo.png": "/steiza-tz/static/media/Geo.590a5d219fda3db344ff.png",
     "index.html": "/steiza-tz/index.html",
     "main.193f7eed.css.map": "/steiza-tz/static/css/main.193f7eed.css.map",
-    "main.d1bf0df9.js.map": "/steiza-tz/static/js/main.d1bf0df9.js.map"
+    "main.9d4a00e7.js.map": "/steiza-tz/static/js/main.9d4a00e7.js.map"
   },
   "entrypoints": [
     "static/css/main.193f7eed.css",
-    "static/js/main.d1bf0df9.js"
+    "static/js/main.9d4a00e7.js"
   ]
 }
