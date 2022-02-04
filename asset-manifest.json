@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/steiza/static/css/main.8001dd7c.css",
-    "main.js": "/steiza/static/js/main.35c36f33.js",
-    "static/media/carl.jpg": "/steiza/static/media/carl.1febcf793d649ec3f3c3.jpg",
-    "static/media/photo.jpg": "/steiza/static/media/photo.aa6038871a12804bcfed.jpg",
-    "static/media/Audience.png": "/steiza/static/media/Audience.3de68b8bf603adc042a3.png",
-    "static/media/Age.png": "/steiza/static/media/Age.7501f82da4e87d7d7648.png",
-    "static/media/Geo.png": "/steiza/static/media/Geo.590a5d219fda3db344ff.png",
-    "index.html": "/steiza/index.html",
-    "main.8001dd7c.css.map": "/steiza/static/css/main.8001dd7c.css.map",
-    "main.35c36f33.js.map": "/steiza/static/js/main.35c36f33.js.map"
+    "main.css": "/steiza-tz/static/css/main.193f7eed.css",
+    "main.js": "/steiza-tz/static/js/main.ac2fa155.js",
+    "static/media/carl.jpg": "/steiza-tz/static/media/carl.1febcf793d649ec3f3c3.jpg",
+    "static/media/photo.jpg": "/steiza-tz/static/media/photo.aa6038871a12804bcfed.jpg",
+    "static/media/Audience.png": "/steiza-tz/static/media/Audience.3de68b8bf603adc042a3.png",
+    "static/media/Age.png": "/steiza-tz/static/media/Age.7501f82da4e87d7d7648.png",
+    "static/media/Geo.png": "/steiza-tz/static/media/Geo.590a5d219fda3db344ff.png",
+    "index.html": "/steiza-tz/index.html",
+    "main.193f7eed.css.map": "/steiza-tz/static/css/main.193f7eed.css.map",
+    "main.ac2fa155.js.map": "/steiza-tz/static/js/main.ac2fa155.js.map"
   },
   "entrypoints": [
-    "static/css/main.8001dd7c.css",
-    "static/js/main.35c36f33.js"
+    "static/css/main.193f7eed.css",
+    "static/js/main.ac2fa155.js"
   ]
 }
