@@ -9,3 +9,5 @@
 Запуск проекта npm start
 
 Для сборки запустить npm run build
+
+Также проект можно посмотреть по ссылке http://gutsyheart-talgat.github.io/steiza-tz
